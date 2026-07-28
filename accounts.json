@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "username": "CF4YWzfI",
+        "password": "CF4YWzfI",
+        "created_at": "2026-07-28 15:19:38",
+        "exp_date": "2026-07-31 19:19:36",
+        "exp_date_iso": "2026-07-31T19:19:36",
+        "status": "Active"
+    }
+]
