@@ -93,8 +93,8 @@
                 const data = await res.json();
 
                 if (data && data.length > 0) {
-                    // Mengambil akun paling bawah (elemen terakhir pada file JSON)
-                    const latest = data[data.length - 1];
+                    // Mengambil data paling atas (index 0)
+                    const latest = data[0];
 
                     document.getElementById('latest-creds').innerHTML = `
                         <div class="row">
